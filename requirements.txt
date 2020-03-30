@@ -189,7 +189,7 @@ unicodecsv==0.14.1
 urllib3==1.22
 wcwidth==0.1.7
 websocket-client==0.46.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==1.2.6
 win-unicode-console==0.5
 wincertstore==0.2
