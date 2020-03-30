@@ -1,6 +1,5 @@
-# RL-Forex-trader-LSTM
+# Duel DQN RL-Forex-trader-LSTM using keras-rl
 Deep LSTM Duel DQN Reinforcement Learning Forex EUR/USD Trader
-# Deep RL Trader (Duel DQN) using Keras-RL
 
 This repo contains 
 1. Trading environment(OpenAI Gym) for Forex currency trading(EUR/USD)  
