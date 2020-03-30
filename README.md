@@ -28,7 +28,7 @@ Agent decides optimal action by observing its environment.
 
 With some modification it can easily be applied to stocks, futures or foregin exchange as well.
 
-[Visualization](https://github.com/CodeLogist/RL-Forex-trader-LSTM/blob/master/visualize.ipynb) / [Main](https://github.com/CodeLogist/RL-Forex-trader-LSTM/blob/master/ddqn_rl_trader.py) / [Environment](https://github.com/CodeLogist/RL-Forex-trader-LSTM/blob/master/TraderEnv.py)
+[Visualization](https://github.com/CodeLogist/RL-Forex-trader-LSTM/blob/master/visualize.ipynb) / [Main](https://github.com/CodeLogist/RL-Forex-trader-LSTM/blob/master/deep_dqn_rl_trader.py) / [Environment](https://github.com/CodeLogist/RL-Forex-trader-LSTM/blob/master/TraderEnv.py)
 
 The EUR/USD data used to train:
 1. Year 2010 - 2019 per hour data.
