@@ -52,7 +52,7 @@ EasyProcess==0.2.3
 enum34==1.1.6
 et-xmlfile==1.0.1
 fastcache==1.0.2
-Flask==0.12
+Flask==1.0
 Flask-Cors==3.0.2
 future==0.16.0
 gast==0.2.0
